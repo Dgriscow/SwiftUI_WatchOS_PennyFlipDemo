@@ -13,7 +13,7 @@ struct ContentView: View {
     
     @State var coinFlipValue:Bool = true //Value of the coin flip, either heads or tails
     
-    @State var flippedOnce:Bool = false //If the coin has already been flipped once in the views/apps lifetime. 
+    @State var flippedOnce:Bool = false //If the coin has already been flipped once in the views/apps lifetime.
     
     
     
